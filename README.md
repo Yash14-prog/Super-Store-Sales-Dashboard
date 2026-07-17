@@ -46,11 +46,11 @@ This project is an interactive Power BI dashboard developed using the Super Stor
 
 ### Dashboard
 
-![Dashboard](Dashboard-page1.png)
+![Dashboard](Dashboard-Page1.png)
 
 ### Forecast
 
-![Forecast](Forecast-page2.png)
+![Forecast](Forecast-Page2.png)
 
 
 ---
